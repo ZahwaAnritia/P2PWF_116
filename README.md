@@ -1,7 +1,7 @@
 # Laporan Praktikum Web Framework 
 
 > **Update Terbaru:**
-> ### [KLIK DI SINI UNTUK MELIHAT TUGAS PERTEMUAN 3 (ERD & MIGRATION)](Pertemuan3.md)
+> ### [KLIK DI SINI UNTUK MELIHAT TUGAS PERTEMUAN 3 (ERD & MIGRATION)](pertemuan3.md)
 
 
 ## Praktikum 2
