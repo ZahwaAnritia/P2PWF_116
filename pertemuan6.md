@@ -10,7 +10,7 @@
 
 ![Policy Code](ss-prak6/namakosong.png)
 
-### 3. Validasi Quantity Kosong
+### 3. Validasi Quantity Dengan Nilai Desimal
 
 ![Policy Code](ss-prak6/qty.png)
 
